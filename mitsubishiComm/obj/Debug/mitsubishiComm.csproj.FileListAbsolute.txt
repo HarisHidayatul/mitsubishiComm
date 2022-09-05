@@ -1,0 +1,10 @@
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\bin\Debug\mitsubishiComm.exe.config
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\bin\Debug\mitsubishiComm.exe
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\bin\Debug\mitsubishiComm.pdb
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.csproj.AssemblyReference.cache
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.Form1.resources
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.Properties.Resources.resources
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.csproj.GenerateResource.cache
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.exe
+C:\Users\haris\source\repos\mitsubishiComm\mitsubishiComm\obj\Debug\mitsubishiComm.pdb
